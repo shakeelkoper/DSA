@@ -13,17 +13,29 @@ This repository is dedicated to learning and practicing Data Structures and Algo
 
 ```
 DSA/
-├── data_structures/
-├── algorithms/
-├── problems/
-├── notes/
+├── javascript/
+│   ├── data_structures/
+│   ├── algorithms/
+│   ├── problems/
+│   └── notes/
+├── typescript/
+│   ├── data_structures/
+│   ├── algorithms/
+│   ├── problems/
+│   └── notes/
 └── README.md
 ```
 
-- `data_structures/`: Implementations of various data structures.
-- `algorithms/`: Implementations of algorithms.
-- `problems/`: Practice problems and solutions.
-- `notes/`: Explanatory notes and resources.
+- `javascript/`: DSA implementations, problems, and notes in JavaScript.
+  - `data_structures/`: JavaScript implementations of data structures.
+  - `algorithms/`: JavaScript implementations of algorithms.
+  - `problems/`: Practice problems and solutions in JavaScript.
+  - `notes/`: Explanatory notes and resources for JavaScript.
+- `typescript/`: DSA implementations, problems, and notes in TypeScript.
+  - `data_structures/`: TypeScript implementations of data structures.
+  - `algorithms/`: TypeScript implementations of algorithms.
+  - `problems/`: Practice problems and solutions in TypeScript.
+  - `notes/`: Explanatory notes and resources for TypeScript.
 
 ## 🚀 Getting Started
 
